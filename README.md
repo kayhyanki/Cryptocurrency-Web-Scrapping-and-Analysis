@@ -59,4 +59,4 @@ jupyter notebook
 ```
 
 ## Scraped Dataset
-- [Link](https://github.com/kayhyanki/Cryptocurrency-Web-Scrapping-and-Analysis/blob/main/crypto_data_output(1).csv)
+- [Link](crypto_data_output (1).csv)
