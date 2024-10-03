@@ -60,3 +60,6 @@ jupyter notebook
 
 ## Scraped Dataset
 - [Link](https://github.com/kayhyanki/Cryptocurrency-Web-Scrapping-and-Analysis/blob/f8ca0db598593d8204e38f239304a4edfa115b61/crypto_data_output%20(1).csv)
+
+## Predictive Analysis Result 
+![image](https://github.com/user-attachments/assets/6d292e64-fb93-4dfd-9c51-837d0db806ed)
